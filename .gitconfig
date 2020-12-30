@@ -1,0 +1,7 @@
+[user]
+	email = david@vacovideo.com
+	name = David Rhodus
+[core]
+  editor = vim
+[color]
+  ui = auto
